@@ -1,6 +1,6 @@
-## Short example
+## Short Example
 
-### Using 
+### Using
 - TypeScript
 - Express
 - fs
@@ -8,7 +8,7 @@
 
 ### Routes
 
-- / => index of routes
-- /users => index of users (list all users present in fakedata)
-- /users/:role => index of users per role (Allowed value : "user"|"admin")
-- /users/:id => user data
+- `/` => index of routes
+- `/users` => index of users (lists all users present in fake data)
+- `/users/:role` => index of users by role (Allowed values: "user" | "admin")
+- `/users/:id` => user data
