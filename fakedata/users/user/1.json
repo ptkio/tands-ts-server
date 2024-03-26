@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "nom": "Jean Dupont",
+  "email": "jean.dupont@example.com",
+  "age": 28,
+  "ville": "Paris",
+  "role": "user"
+}
